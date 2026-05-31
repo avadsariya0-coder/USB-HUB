@@ -70,4 +70,113 @@ ________________________________________________________________________________
 
 <img width="1410" height="2000" alt="USB HUB ZINE" src="https://github.com/user-attachments/assets/110e05d6-c74a-431a-895b-72e655ad699c" />
 
+_________________________________________________________________________________________________________________________________________________________________________
+
+## PCB design
+
+The PCB for USB HUB was designed using KICAD. PCB contains SL2.1A controller,USB-C connectors,Resistor,Capacitor,LED,Diode.
+
+# Features
+
+• USB-C connectivity
+
+• Compact PCB
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+## PCB
+
+<img width="619" height="781" alt="PCB" src="https://github.com/user-attachments/assets/828957e6-194e-41ec-8240-1e064e762762" />
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+## Schematic
+
+<img width="1234" height="849" alt="SCHEMATIC" src="https://github.com/user-attachments/assets/eb61dde4-95bd-4e6d-a1dd-02e701b5818c" />
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+## Enclosure
+
+The enclosure for USB HUB was designed using FUSION 360.
+
+# Features
+
+• USB-C port opening
+
+• Compact form factor
+
+<img width="1920" height="752" alt="RIGHT RENDER" src="https://github.com/user-attachments/assets/cc9caaa8-2dfe-4f11-b840-d1b13f132107" />
+<img width="1920" height="752" alt="TOP RENDER" src="https://github.com/user-attachments/assets/5dc6fbfe-f907-4a9a-aaa1-2d84e1aea2d3" />
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+## Assembly guide
+
+• Solder the SL2.1A USBHUB controller to the PCB
+
+• Solder all capacitor and resistor.(NOTE: solder the component with correct values)
+
+• Mount the USB-C connectors
+
+• Install LED indicator
+
+• Put the PCB inside the enclosure and close bottom and top layer using screw.Make sure holes alloign with USB-C connector
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+## How to use
+
+• Connect the USB-C input port to the host device
+
+• Plug in another devices to the USB-C output plug
+
+• Now,the USB HUB distributes the connection all the connected devices.
+
+## Devices that can be used
+
+• USB flash drive
+
+• keyboards
+
+• USB Card reader
+
+• USB powered accesories.
+
+## Uses 
+
+• Used for trasferring data from 1 device to the multiple devices.
+
+## Contributing
+
+Contributions,suggestions, and feedback are welcome
+
+If you'd like to improve USB HUB
+1. Fork or clone the repository
+
+https://github.com/avadsariya0-coder/USB-HUB
+
+2. Create your Feature branch
+
+3. Commit your changes
+
+4. Open a pull request.
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+## Creator
+
+# Arman Vadsariya
+
+17•India•Fallout
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+## License
+
+This project is licensed under MIT License.
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+# USB HUB
 
