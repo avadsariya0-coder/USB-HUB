@@ -60,9 +60,9 @@ ________________________________________________________________________________
 
 ## Bill of material
 
-<img width="166" height="269" alt="image" src="https://github.com/user-attachments/assets/7116164f-d5bf-4130-9f49-563e12f0c548" />
+ <img width="166" height="269" alt="image" src="https://github.com/user-attachments/assets/7116164f-d5bf-4130-9f49-563e12f0c548" />
+[USB HUB BOM.csv](https://github.com/user-attachments/files/28536854/USB.HUB.BOM.csv)
 
-[USB HUB BOM.csv](https://github.com/user-attachments/files/28435498/USB.HUB.BOM.csv)
 
 _________________________________________________________________________________________________________________________________________________________________________
 
