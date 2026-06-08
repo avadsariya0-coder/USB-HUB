@@ -113,8 +113,7 @@ The enclosure for USB HUB was designed using FUSION 360.
 
 • Compact form factor
 
-<img width="1920" height="752" alt="RIGHT RENDER" src="https://github.com/user-attachments/assets/cc9caaa8-2dfe-4f11-b840-d1b13f132107" />
-<img width="1920" height="752" alt="TOP RENDER" src="https://github.com/user-attachments/assets/5dc6fbfe-f907-4a9a-aaa1-2d84e1aea2d3" />
+
 
 _________________________________________________________________________________________________________________________________________________________________________
 
