@@ -36,9 +36,10 @@ ________________________________________________________________________________
 
 ## Gallery
 
-<img width="799" height="276" alt="image" src="https://github.com/user-attachments/assets/575f5e2a-1035-41b9-a254-74b1c186d7e3" />
-<img width="684" height="224" alt="image" src="https://github.com/user-attachments/assets/50017536-ee87-4ab2-ab21-1a4ae8c3a458" />
-<img width="468" height="552" alt="image" src="https://github.com/user-attachments/assets/7a423f72-afe0-4783-b0ab-d762155d724a" />
+<img width="456" height="185" alt="image" src="https://github.com/user-attachments/assets/3814dbc1-f4e7-4dae-8303-e87124ee4627" />
+<img width="637" height="515" alt="image" src="https://github.com/user-attachments/assets/7af5554f-fb53-4d91-893d-7d8fb81398a9" />
+<img width="397" height="516" alt="image" src="https://github.com/user-attachments/assets/72eb60dc-f6bf-4c51-9d9e-2ccc8b9c8d0e" />
+
 
 _________________________________________________________________________________________________________________________________________________________________________
 
@@ -126,7 +127,9 @@ ________________________________________________________________________________
 
 • Install LED indicator
 
-• Put the PCB inside the enclosure and close bottom and top layer using screw.Make sure holes alloign with USB-C connector
+• Put the PCB inside the enclosure and add screws through the PCB mounting holes to the standoff pillars.
+
+• Close the enclosure with the help of top lid
 
 _________________________________________________________________________________________________________________________________________________________________________
 
