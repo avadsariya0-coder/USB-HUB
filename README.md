@@ -60,16 +60,20 @@ ________________________________________________________________________________
 
 ## Bill of material
 
- <img width="166" height="269" alt="image" src="https://github.com/user-attachments/assets/7116164f-d5bf-4130-9f49-563e12f0c548" />
 
-[USB HUB BOM.csv](https://github.com/user-attachments/files/28536854/USB.HUB.BOM.csv)
+<img width="409" height="365" alt="image" src="https://github.com/user-attachments/assets/32666d3c-4f6e-4efd-a124-b160b86db2d8" />
+
+
+[USB HUB BOM.csv](https://github.com/user-attachments/files/28701582/USB.HUB.BOM.csv)
+
 
 
 _________________________________________________________________________________________________________________________________________________________________________
 
 ## Zine
 
-<img width="1410" height="2000" alt="USB HUB ZINE" src="https://github.com/user-attachments/assets/110e05d6-c74a-431a-895b-72e655ad699c" />
+<img width="1410" height="2000" alt="USB HUB ZINE" src="https://github.com/user-attachments/assets/7473c818-9d0f-40ef-949b-087872c04158" />
+
 
 _________________________________________________________________________________________________________________________________________________________________________
 
