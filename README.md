@@ -36,10 +36,9 @@ ________________________________________________________________________________
 
 ## Gallery
 
-<img width="456" height="185" alt="image" src="https://github.com/user-attachments/assets/3814dbc1-f4e7-4dae-8303-e87124ee4627" />
-<img width="637" height="515" alt="image" src="https://github.com/user-attachments/assets/7af5554f-fb53-4d91-893d-7d8fb81398a9" />
-<img width="397" height="516" alt="image" src="https://github.com/user-attachments/assets/72eb60dc-f6bf-4c51-9d9e-2ccc8b9c8d0e" />
-
+<img width="1920" height="752" alt="bottom render" src="https://github.com/user-attachments/assets/aff5e629-ee67-430e-af8a-40d1b18163b2" />
+<img width="1920" height="752" alt="left render" src="https://github.com/user-attachments/assets/9ac9925a-053a-49aa-ac2a-ad0b1246c6ec" />
+<img width="1920" height="752" alt="top render" src="https://github.com/user-attachments/assets/d6b974c9-0af7-4153-ac0f-f3d3c5a7c272" />
 
 _________________________________________________________________________________________________________________________________________________________________________
 
@@ -93,7 +92,8 @@ ________________________________________________________________________________
 
 ## PCB
 
-<img width="653" height="717" alt="pcb" src="https://github.com/user-attachments/assets/2cae158a-50e5-47f4-a5e5-211afa5a2506" />
+<img width="530" height="755" alt="PCB" src="https://github.com/user-attachments/assets/8a9f0738-ddee-4402-9835-3565e2d64580" />
+
 
 
 _________________________________________________________________________________________________________________________________________________________________________
