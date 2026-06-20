@@ -72,7 +72,8 @@ ________________________________________________________________________________
 
 ## Zine
 
-<img width="1410" height="2000" alt="USB HUB zine" src="https://github.com/user-attachments/assets/e047ed37-aec3-410d-8221-fd167440de89" />
+<img width="1410" height="2000" alt="USB HUB" src="https://github.com/user-attachments/assets/8cf8c3e6-3229-4eca-ac84-fbbfb8f28173" />
+
 
 
 
