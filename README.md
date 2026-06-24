@@ -36,9 +36,11 @@ ________________________________________________________________________________
 
 ## Gallery
 
-<img width="1920" height="752" alt="bottom render" src="https://github.com/user-attachments/assets/aff5e629-ee67-430e-af8a-40d1b18163b2" />
-<img width="1920" height="752" alt="left render" src="https://github.com/user-attachments/assets/9ac9925a-053a-49aa-ac2a-ad0b1246c6ec" />
+<img width="1920" height="752" alt="top" src="https://github.com/user-attachments/assets/e56e6ac3-424e-4b53-b286-23cab0c70bce" />
 
+<img width="1920" height="752" alt="back" src="https://github.com/user-attachments/assets/324becb9-6ff9-4f49-b991-2aceb00009ca" />
+
+<img width="1920" height="752" alt="right" src="https://github.com/user-attachments/assets/33e07a5d-b7cd-44f9-9b25-953f501a6706" />
 
 
 _________________________________________________________________________________________________________________________________________________________________________
@@ -62,17 +64,19 @@ ________________________________________________________________________________
 ## Bill of material
 
 
-<img width="401" height="382" alt="image" src="https://github.com/user-attachments/assets/f8467569-c363-4b43-8a17-fa819496be0c" />
+<img width="403" height="386" alt="image" src="https://github.com/user-attachments/assets/9be94299-4775-43c6-a59f-8674436dbdbd" />
+
+[USB HUB BOM.csv](https://github.com/user-attachments/files/29300524/USB.HUB.BOM.csv
 
 
-[USB HUB BOM.csv](https://github.com/user-attachments/files/29161791/USB.HUB.BOM.csv)
 
 
 _________________________________________________________________________________________________________________________________________________________________________
 
 ## Zine
 
-<img width="1410" height="2000" alt="USB HUB" src="https://github.com/user-attachments/assets/8cf8c3e6-3229-4eca-ac84-fbbfb8f28173" />
+<img width="1410" height="2000" alt="USB HUB zine" src="https://github.com/user-attachments/assets/47ef5fcd-06a3-4dbe-867a-5427f2c85403" />
+
 
 
 
@@ -93,7 +97,8 @@ ________________________________________________________________________________
 
 ## PCB
 
-<img width="530" height="755" alt="PCB" src="https://github.com/user-attachments/assets/8a9f0738-ddee-4402-9835-3565e2d64580" />
+<img width="1002" height="873" alt="pcb (2)" src="https://github.com/user-attachments/assets/4be21f5c-5610-4351-8bdb-139ebcda0ec3" />
+
 
 
 
