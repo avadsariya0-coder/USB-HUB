@@ -66,7 +66,8 @@ ________________________________________________________________________________
 
 <img width="403" height="386" alt="image" src="https://github.com/user-attachments/assets/9be94299-4775-43c6-a59f-8674436dbdbd" />
 
-[USB HUB BOM.csv](https://github.com/user-attachments/files/29300524/USB.HUB.BOM.csv
+[USB HUB BOM.csv](https://github.com/user-attachments/files/29343381/USB.HUB.BOM.csv)
+
 
 
 
@@ -97,7 +98,8 @@ ________________________________________________________________________________
 
 ## PCB
 
-<img width="1002" height="873" alt="pcb (2)" src="https://github.com/user-attachments/assets/4be21f5c-5610-4351-8bdb-139ebcda0ec3" />
+<img width="892" height="835" alt="P C B" src="https://github.com/user-attachments/assets/98cdbb74-4ea5-4905-86cb-e1221a1a7232" />
+
 
 
 
